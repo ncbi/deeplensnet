@@ -22,7 +22,7 @@ source cataract_lens_external/bin/activate
 pip install -r requirements.txt
 ```
 ### Download the models
-Please download the models from [here](https://nih.box.com/s/xz1n6c3rfspc09woo0kk64cpyc5vozyt)
+Please download the models from [here](https://drive.google.com/drive/folders/1iOd7jGKgivShyhSM5JM206QQDBpNxerX?usp=sharing)
 
 ### Run the evaluation script
 ```
