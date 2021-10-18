@@ -1,5 +1,5 @@
 # Deep Learning Automated Diagnosis and Quantitative Classification of Cataract Type and Severity
-This repository provides evaluation scripts and samples for [BioCreative VII Track 5](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vii/track-5/). 
+This repository provides scripts and samples for external validation.
 
 ## Instructions to run the evaluation script
 ### Prerequisites
