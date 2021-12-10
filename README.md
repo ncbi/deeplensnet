@@ -35,9 +35,7 @@ Compare output_test_file.csv with output_file.csv. If they are the same, it is r
 ## Attention map samples 
 The samples can be accessed from [here](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/cataract_lens/)
 
-NCBI's Disclaimer
-=================
-
+## NCBI's Disclaimer
 This tool shows the results of research conducted in the `Computational Biology Branch <https://www.ncbi.nlm.nih.gov/research/>`_, `NCBI <https://www.ncbi.nlm.nih.gov/home/about>`_. 
 
 The information produced on this website is not intended for direct diagnostic use or medical decision-making without review and oversight by a clinical professional. Individuals should not change their health behavior solely on the basis of information produced on this website. NIH does not independently verify the validity or utility of the information produced by this tool. If you have questions about the information produced on this website, please see a health care professional. 
@@ -46,8 +44,6 @@ More information about `NCBI's disclaimer policy <https://www.ncbi.nlm.nih.gov/h
 
 About `text mining group <https://www.ncbi.nlm.nih.gov/research/bionlp/>`_.
 
-For Research Use Only
-=====================
-
+## For Research Use Only
 The performance characteristics of this product have not been evaluated by the Food and Drug Administration and is not intended for commercial use or purposes beyond research use only. 
 
