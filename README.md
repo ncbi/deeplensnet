@@ -22,7 +22,7 @@ source cataract_lens_external/bin/activate
 pip install -r requirements.txt
 ```
 ### Download the models
-Please download the models from [here](https://drive.google.com/drive/folders/1iOd7jGKgivShyhSM5JM206QQDBpNxerX?usp=sharing)
+Please download the models from [here](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/cataract_lens/models.zip)
 
 ### Run the script
 ```
@@ -33,7 +33,7 @@ Please note that image_set/ and input_files.csv are provided in the repository
 Compare output_test_file.csv with output_file.csv. If they are the same, it is ready for testing other images.
 
 ## Attention map samples 
-The samples can be accessed from [here](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/cataract_lens/)
+The samples can be accessed from [here](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/cataract_lens/attention_map_samples.zip)
 
 ## NCBI's Disclaimer
 This tool shows the results of research conducted in the [Computational Biology Branch](https://www.ncbi.nlm.nih.gov/research/), [NCBI](https://www.ncbi.nlm.nih.gov/home/about). 
