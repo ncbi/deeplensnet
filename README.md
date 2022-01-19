@@ -13,9 +13,9 @@ cd lens-cataract
 
 ### Create a virtual environment
 ```
-python3.8 -m venv cataract_lens_external
+python3.8 -m venv deeplensnet
 
-source cataract_lens_external/bin/activate 
+source deeplensnet/bin/activate 
 ```
 ### Install the required libraries
 ```
