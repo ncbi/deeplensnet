@@ -1,5 +1,5 @@
-# Deep Learning Automated Diagnosis and Quantitative Classification of Cataract Type and Severity
-This repository provides scripts, test image samples, and attention map samples for the paper titled 'Deep Learning Automated Diagnosis and Quantitative Classification of Cataract Type and Severity'.
+# DeepLensNet: Deep Learning Automated Diagnosis and Quantitative Classification of Cataract Type and Severity
+This repository provides scripts, test image samples, and attention map samples for the paper titled 'DeepLensNet: Deep Learning Automated Diagnosis and Quantitative Classification of Cataract Type and Severity'.
 
 ## Instructions to set up
 ### Prerequisites
@@ -48,4 +48,4 @@ About [text mining group](https://www.ncbi.nlm.nih.gov/research/bionlp/).
 The performance characteristics of this product have not been evaluated by the Food and Drug Administration and is not intended for commercial use or purposes beyond research use only. 
 
 ## Cite our work
-Keenan, T.D*., Chen, Q*., Agrón, E., Tham, Y.C., Goh, J.H.L., Lei, X., Ng, Y.P., Liu, Y., Xu, X., Cheng, C.Y. and Bikbov, M.M., 2022. [Deep Learning Automated Diagnosis and Quantitative Classification of Cataract Type and Severity](https://www.sciencedirect.com/science/article/pii/S0161642021009672). Ophthalmology.
+Keenan, T.D*., Chen, Q*., Agrón, E., Tham, Y.C., Goh, J.H.L., ... Lu, Z†., and Chew, E.Y† 2022. [DeepLensNet: Deep Learning Automated Diagnosis and Quantitative Classification of Cataract Type and Severity](https://www.sciencedirect.com/science/article/pii/S0161642021009672). Ophthalmology.
