@@ -47,5 +47,10 @@ About [text mining group](https://www.ncbi.nlm.nih.gov/research/bionlp/).
 ## For Research Use Only
 The performance characteristics of this product have not been evaluated by the Food and Drug Administration and is not intended for commercial use or purposes beyond research use only. 
 
+## Acknowledgement
+This research was supported in part by the Intramural Research Program of the National Eye Institute, National Institutes of Health, Department of Health and Human Services, Bethesda, Maryland, and the National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health. The sponsor and funding organization participated in the design and conduct of the study; data collection, management, analysis, and interpretation; and the preparation, review and approval of the manuscript.
+The views expressed herein are those of the authors and do not reflect the official policy or position of Walter Reed National Military Medical Center, Madigan Army Medical Center, Joint Base Andrews, the U.S. Army Medical Department, the U.S. Army Office of the Surgeon General, the Department of the Air Force, the Department of the Army/Navy/Air Force, Department of Defense, the Uniformed Services University of the Health Sciences or any other agency of the U.S. Government. Mention of trade names, commercial products, or organizations does not imply endorsement by the U.S. Government.
+
+
 ## Cite our work
 Keenan, T.D*., Chen, Q*., Agrón, E., Tham, Y.C., Goh, J.H.L., ... Lu, Z†., and Chew, E.Y† 2022. [DeepLensNet: Deep Learning Automated Diagnosis and Quantitative Classification of Cataract Type and Severity](https://www.sciencedirect.com/science/article/pii/S0161642021009672). Ophthalmology.
